@@ -9,7 +9,7 @@ data () {
         msg: '<h2><img src="http://img.baidu.com/hi/face/i_f03.gif"/>Vue + UEditor + v-model双向绑定</h2>'
       }
 ```
-- 后台地址：https://gitee.com/fuyang_lipengjun/platform-plus
+- 后台地址：https://github.com/liutaojava/platform-plus
 
 ## 实现功能
 ```
@@ -128,21 +128,6 @@ npm run build
     }
 ```
 
-**项目演示**
-- 演示地址：http://fly2you.cn/platform-plus/#/login
-- 账号密码：
-  - admin/admin
-  - test/888888
-  - test1/888888
-  - test2/888888
-  - test3/888888
-  - test4/888888
-  - test5/888888
-  - test6/888888
-  - test7/888888
-  - test8/888888
-  - test9/888888
-  - test10/888888
 
 **效果图：**
 - 菜单管理
